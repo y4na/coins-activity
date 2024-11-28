@@ -1,0 +1,16 @@
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\bin\Release\net8.0-windows\Coins_Activity.exe
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\bin\Release\net8.0-windows\Coins_Activity.deps.json
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\bin\Release\net8.0-windows\Coins_Activity.runtimeconfig.json
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\bin\Release\net8.0-windows\Coins_Activity.dll
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\bin\Release\net8.0-windows\Coins_Activity.pdb
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.Form1.resources
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.csproj.GenerateResource.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.AssemblyInfoInputs.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.AssemblyInfo.cs
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.csproj.CoreCompileInputs.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.dll
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\refint\Coins_Activity.dll
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.pdb
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\Coins_Activity.genruntimeconfig.cache
+C:\Users\yanap\Documents\5. Code Project Files\c#\Coins Activity\Coins_Activity\obj\Release\net8.0-windows\ref\Coins_Activity.dll
